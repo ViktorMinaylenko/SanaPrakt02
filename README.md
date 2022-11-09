@@ -14,3 +14,5 @@
 - [X] GitHub
 - [ ] GitLab
 - [ ] Bitbucket
+
+Виконав : Мінайленко Віктор
